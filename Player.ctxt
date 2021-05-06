@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\r\n\ @author\ hp\r\n
+comment1.params=pName\ pGoals
+comment1.target=Player(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=pName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=int\ getGoals()
+comment5.params=pGoals
+comment5.target=void\ setGoals(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\r\n\ @author\ hp\r\n
+comment1.params=teams
+comment1.target=Game(java.util.ArrayList)
+comment2.params=teams
+comment2.target=void\ setTeams(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ getTeams()
+comment4.params=
+comment4.target=java.util.ArrayList\ playGame()
+comment5.params=team1Score\ team2Score\ team1Yellow\ team1Red\ team2Yellow\ team2Red
+comment5.target=void\ displayGameResults(int,\ int,\ int,\ int,\ int,\ int)
+numComments=6
